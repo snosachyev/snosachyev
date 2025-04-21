@@ -1,18 +1,42 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**Образование:** Волгоградский Технический Университет <br/> 
-**Опыт работы:** Имею не мало опыт в разработке приложений python, различные приложения. Монолитные приложения, микросервисы, не много связанные с телегрм ботами, и парсинг. С каждым проектом выполнено много разных задача и как следствие более глубокое понимание python<br/> 
-**Ключевые навыки:** <br/> 
-  OS ubuntu/debian, знание алгоритмов сортировки и поиска<br/> 
-  python, django, flask, fastApi, ioHttp, asyncio<br/> 
-  sql, postgresql, mysql<br/> 
-  mongodb, elasticsearch<br/> 
-  rabitmq<br/> 
+**Education**: </br>
+Volgograd State Technical Academy. </br>
+
+**Work experience**: </br>
+I have considerable experience in developing software applications in the Python\programming language. During his professional career, he has successfully created both monolithic applications and microservice architecture, using various programming paradigms to optimize performance and scalability. My experience includes: </br>
+
+Development of software solutions for Telegram.</br>
+
+Performing web scraping tasks.</br>
+
+These projects demonstrate a deep understanding of asynchronous programming paradigms using the asyncio and Celery\libraries. Each project covered a wide range of tasks, which contributed to significant professional growth and deepened knowledge in the field of Python development.</br>
+
+**Key skills**:</br>
+
+**Operating Systems:**- Ownership of Linux Ubuntu and Debian\distributions.</br>
+
+Good understanding of the principles of system administration and configuration management.</br>
+
+**Algorithms and data structures:** </br>
+
+Knowledge of fundamental sorting algorithms \ (QuickSort, MergeSort) and search (Binary Search, A*Search).</br>
+
+Skills of effective implementation and optimization of algorithms.</br>
+
+**Programming languages:**\ - Extensive knowledge of the Python programming language.</br>
+
+Specialization in high-level web frameworks such as Django, Flask, and FastAPI.</br>
+
+Experience working with asynchronous programming paradigms and asyncio and Celery\libraries.</br>
+
+**Databases:** </br>
+Experience working with relational SQL database management systems, including PostgreSQL and MySQL.</br>
+
+Knowledge of NoSQL databases such as MongoDB and ElasticSearch.</br>
+
+**Database management**:\ - Skills in managing and optimizing database performance.</br>
+
+Knowledge of query optimization techniques and indexing strategies.</br>
+
+**Messaging systems:** </br>
+
+Experience in implementing and managing distributed systems using RabbitMQ for asynchronous communication and message queue management.</br>
