@@ -22,7 +22,8 @@ Knowledge of fundamental sorting algorithms \ (QuickSort, MergeSort) and search 
 
 Skills of effective implementation and optimization of algorithms.</br>
 
-**Programming languages:**\ - Extensive knowledge of the Python programming language.</br>
+**Programming languages:** </br>
+Extensive knowledge of the Python programming language.</br>
 
 Specialization in high-level web frameworks such as Django, Flask, and FastAPI.</br>
 
