@@ -12,42 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p dir="auto">👨&zwj;💻 <strong>Обо мне</strong></p>
 
 **Work experience**: </br>
-I have considerable experience in developing software applications in the Python\programming language. During his professional career, he has successfully created both monolithic applications and microservice architecture, using various programming paradigms to optimize performance and scalability. My experience includes: </br>
+<p dir="auto">Я web разработчик с опытом работы 10 лет, за это время попробовал себя в разных направления backend, frontend, fullstack. Благодаря этим ролям я глубоко понимаю, как работают современные системы, и умею эффективно решать задачи пользователей</p>
+<p dir="auto">В виду развития, большого спроса и моей заинтересованности в ИИ начал осваивать разработку нейросетей.</p>
 
-Development of software solutions for Telegram.</br>
-
-Performing web scraping tasks.</br>
-
-These projects demonstrate a deep understanding of asynchronous programming paradigms using the asyncio and Celery\libraries. Each project covered a wide range of tasks, which contributed to significant professional growth and deepened knowledge in the field of Python development.</br>
-
-**Key skills**:</br>
-
-**Operating Systems:**- Ownership of Linux Ubuntu and Debian\distributions.</br>
-
-Good understanding of the principles of system administration and configuration management.</br>
-
-**Algorithms and data structures:** </br>
-
-Knowledge of fundamental sorting algorithms \ (QuickSort, MergeSort) and search (Binary Search, A*Search).</br>
-
-Skills of effective implementation and optimization of algorithms.</br>
-
-**Programming languages:** </br>
-Extensive knowledge of the Python programming language.</br>
-
-Specialization in high-level web frameworks such as Django, Flask, and FastAPI.</br>
-
-Experience working with asynchronous programming paradigms and asyncio and Celery\libraries.</br>
-
-**Databases:** </br>
-Experience working with relational SQL database management systems, including PostgreSQL and MySQL.</br>
-
-Knowledge of NoSQL databases such as MongoDB and ElasticSearch.</br>
-
-**Database management**:\ - Skills in managing and optimizing database performance.</br>
-
-Knowledge of query optimization techniques and indexing strategies.</br>
-
-**Messaging systems:** </br>
-
-Experience in implementing and managing distributed systems using RabbitMQ for asynchronous communication and message queue management.</br>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">PET проекты:</h2><a id="user-content-pet-проекты" class="anchor" aria-label="Permalink: PET проекты:" href="#pet-проекты"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
