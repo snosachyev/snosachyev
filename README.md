@@ -1,4 +1,5 @@
 👋 Салют! Меня зовут Сергей
+<hr>
 **Education**: </br>
 Volgograd State Technical Academy. </br>
 
