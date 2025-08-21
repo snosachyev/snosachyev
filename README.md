@@ -1,8 +1,13 @@
-👋 Салют! Меня зовут Сергей
-<hr>
-**Education**: </br>
-Volgograd State Technical Academy. </br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Сергей Носачёв
+=======================================================================================================================================
 
+Разработчик нейросетей
+----------------------
+
+* 🌍 Я живу в Волгограде
+* 🖥️  See my portfolio at [hh.ru](http://volgograd.hh.ru/resume/1526069eff0e9b80290039ed1f565175715a79)
+* ✉️  Вы можете связаться со мной по TG: [@svnosachev](mailto:@svnosachev)
+* 🧠  Учусь в академии нейросетей <a href="https://t.me/thefoundator" rel="nofollow">@thefoundator</a>
 **Work experience**: </br>
 I have considerable experience in developing software applications in the Python\programming language. During his professional career, he has successfully created both monolithic applications and microservice architecture, using various programming paradigms to optimize performance and scalability. My experience includes: </br>
 
