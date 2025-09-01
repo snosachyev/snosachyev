@@ -30,6 +30,15 @@ Hi ! My name is Сергей Носачёв
    <p dir="auto">11.Обучил автокодировщик удалять шум или водяные знаки у изображений(numpy, pandas, albumentations, matplotlib, keras, cv2, sklearn, pillow, albumentations)</p>
    <p dir="auto">12. Обучи U-net подобную архитектуру сегментировать легкие человека на радиографическом снимке (numpy, kagglehub, openpyxl, keras).</p>
   <p dir="auto">13. научил GAN и DCGAN генерировать цифры и образцы одежды используя датасет MNIST из набора датасетов Tensorflow (numpy, tensorflow, keras, cv2, Conv2D,Dropout,Dense,Flatten,Conv2DTranspose,BatchNormalization,LeakyReLU,Reshape, matplotlib, seaborn).</p>
+  <p dir="auto">14. Обучил модель по картинкам делать описание (numpy, pandas, tokenizers, tensorflow, keras, transformers, inception_v3).</p>
+  <p dir="auto">15. Обучил модель переводить текст с одного языка на другой (numpy, pandas, tokenizers, tensorflow, keras, transformers).</p>
+  <p dir="auto">16. Создал трансформер для задачи question answering. Трансформерпо принципу чат-бота: принимает на вход вопрос, и генерировать ответ на этот вопрос. (numpy, matplotlib, tensorflow, tensorflow_datasets).</p>
+  <p dir="auto">17. Создал чат-бот на базе BERT-подобной модели. Дообучив (fine-tuning) предобученную (pre-training) BERT-подобную модель на задачу Q&A (по входной последовательности вопросов генерировать ответы), используя публичный датасет с диалогами (numpy, pandas, emoji, sklearn, imblearn, transformers, matplotlib, seaborn). </p>
+  <p dir="auto">18. Научил GPT по русскоязычным текстам новостей писать заголовки к ним. (pandas, torch, kagglehub, transformers, AutoTokenizer, AutoModelForSeq2SeqLM, Trainer, TrainingArguments, DataCollatorForLanguageModeling)</p>
+  <p dir="auto">19. Создал модель YOLOv3 с нуля обучил детектировать шахматные фигуры. (numpy, pandas, cv2, tensorflow, ReduceLROnPlateau, EarlyStopping, ModelCheckpoint, TensorBoard,  Add, Concatenate, Lambda, Conv2D, Input, LeakyReLU, MaxPool2D, UpSampling2D, ZeroPadding2D, BatchNormalization)</p>
+  <p dir="auto">20. Обучил игру на стратегии градиента стратегии (градиентной политики) используя Gym Atari. Создал видео из нескольких игровых эпизодов (pytorch, numpy, matplotlib, cv2, gymnasium).</p>
+  <p dir="auto">21. Реализовал алгоритм управления МК с разделенной стратегией для среды Acrobot из библиотеки OpenAI Gym. Сравнил  разделенную стратегию и  ε-жадную стратегию (pytorch,numpy, matplotlib, cv2, gymnasium, mpl_toolkits)</p>
+  <p dir="auto">22. Решил задачу Pong с помощью DQN, используя только полносвязанные слои, оставив только один канал.(collections, pytorch,numpy, matplotlib, cv2, gymnasium, mpl_toolkits) </p>
 </div>
 
 
