@@ -22,6 +22,8 @@ Hi ! My name is Сергей Носачёв
   <p dir="auto">4. Обучил модель Embedding по датасету писателей Русской литературы используя веса Наташи(numpy, sklearn, keras, Dense, Dropout, SpatialDropout1D, BatchNormalization, Embedding, Flatten, Activation, tensorflow, EfficientNetV2B0, navec, razdel)</p>
   <p dir="auto">5. Обучил модель предсказывать цены на японские автомобили, используя датасет японских машин(numpy, sklearn, keras, Dense, Dropout, SpatialDropout1D, BatchNormalization, Embedding, Flatten, Activation,
                             SimpleRNN, GRU, LSTM, Bidirectional, Conv1D, MaxPooling1D, GlobalMaxPooling1D)</p>
+  <p dir="auto">6. Обучил полносвязанную модель, по датасеу котировок Apple, выполнять анализ временных рядов (numpy, pandas, sklearn, keras, Flatten, Conv1D, Conv2D, LSTM, GlobalMaxPooling1D, MaxPooling1D, RepeatVector)</p>
+  <p dir="auto">7. Реализовал при помощи FastAPI REST API. которая взаимодействует с обученой моделью на наборе mnist выводить цифры по загруженной картинке (fastapi, mnist, numpy, keras, tensorflow, PIL)</p>
   
   
 </div>
