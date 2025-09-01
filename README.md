@@ -26,7 +26,10 @@ Hi ! My name is Сергей Носачёв
   <p dir="auto">7. Реализовал при помощи FastAPI REST API. которая взаимодействует с обученой моделью на наборе mnist выводить цифры по загруженной картинке (fastapi, mnist, numpy, keras, tensorflow, PIL)</p>
   <p dir="auto">8. Реализовал интерфейс на Streamlit для обучения и инференса модели которая на основе одних midi герерирует другие то есть мелодия однго композитора, но в стиле другого(Streamlit, music21, numpy, keras,  sklearn, LSTM, Dense, Dropout, Sequential, Adamax)</p>
   <p dir="auto">9.Сгенерировал на основе предобученной модели saiga и ru_turbo_saiga датасета случайные фразы(peft, LoraConfig, AutoPeftModelForCausalLM, PeftConfig, transformers, ctransformers,  Hugging Face)</p>
-  
+  <p dir="auto">10.Собрал интерфейс Gradio для предобученной модели используя датасет от SberDevice модели генерировать текст по промпту(gradio, peft, pyvis, llama_index, transformers,  Hugging Face)</p>
+   <p dir="auto">11.Обучил автокодировщик удалять шум или водяные знаки у изображений(numpy, pandas, albumentations, matplotlib, keras, cv2, sklearn, pillow, albumentations)</p>
+   <p dir="auto">12. Обучи U-net подобную архитектуру сегментировать легкие человека на радиографическом снимке (numpy, kagglehub, openpyxl, keras).</p>
+  <p dir="auto">13. научил GAN и DCGAN генерировать цифры и образцы одежды используя датасет MNIST из набора датасетов Tensorflow (numpy, tensorflow, keras, cv2, Conv2D,Dropout,Dense,Flatten,Conv2DTranspose,BatchNormalization,LeakyReLU,Reshape, matplotlib, seaborn).</p>
 </div>
 
 
