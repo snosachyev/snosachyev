@@ -24,7 +24,8 @@ Hi ! My name is Сергей Носачёв
                             SimpleRNN, GRU, LSTM, Bidirectional, Conv1D, MaxPooling1D, GlobalMaxPooling1D)</p>
   <p dir="auto">6. Обучил полносвязанную модель, по датасеу котировок Apple, выполнять анализ временных рядов (numpy, pandas, sklearn, keras, Flatten, Conv1D, Conv2D, LSTM, GlobalMaxPooling1D, MaxPooling1D, RepeatVector)</p>
   <p dir="auto">7. Реализовал при помощи FastAPI REST API. которая взаимодействует с обученой моделью на наборе mnist выводить цифры по загруженной картинке (fastapi, mnist, numpy, keras, tensorflow, PIL)</p>
-  
+  <p dir="auto">8. Реализовал интерфейс на Streamlit для обучения и инференса модели которая на основе одних midi герерирует другие то есть мелодия однго композитора, но в стиле другого(Streamlit, music21, numpy, keras,  sklearn, LSTM, Dense, Dropout, Sequential, Adamax)</p>
+  <p dir="auto">9.Сгенерировал на основе предобученной модели saiga и ru_turbo_saiga датасета случайные фразы(peft, LoraConfig, AutoPeftModelForCausalLM, PeftConfig, transformers, ctransformers,  Hugging Face)</p>
   
 </div>
 
