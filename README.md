@@ -39,6 +39,9 @@ Hi ! My name is Сергей Носачёв
   <p dir="auto">20. Обучил игру на стратегии градиента стратегии (градиентной политики) используя Gym Atari. Создал видео из нескольких игровых эпизодов (pytorch, numpy, matplotlib, cv2, gymnasium).</p>
   <p dir="auto">21. Реализовал алгоритм управления МК с разделенной стратегией для среды Acrobot из библиотеки OpenAI Gym. Сравнил  разделенную стратегию и  ε-жадную стратегию (pytorch,numpy, matplotlib, cv2, gymnasium, mpl_toolkits)</p>
   <p dir="auto">22. Решил задачу Pong с помощью DQN, используя только полносвязанные слои, оставив только один канал.(collections, pytorch,numpy, matplotlib, cv2, gymnasium, mpl_toolkits) </p>
+  <p dir="auto">23. Реализовал REINFORCE, REINFORCE с базой, GAE и GAE парралельный на базе pybulet использую кастомный класс Env (imageio, base64, pytorch, numpy, matplotlib, gym, pybullet)</p>
+  <p dir="auto">24. Реализовал Повышение разрешения изображений с помощью автокодировщиков с глубокими сверточными сетями (numpy, pandas, tensorflow, keras, datasetGenerator)
+  
 </div>
 
 
