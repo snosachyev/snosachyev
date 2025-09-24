@@ -1,72 +1,96 @@
-Hi ! My name is Сергей Носачёв
+# Hi! My name is Сергей Носачёв 👋
 
-Разработчик нейросетей
-----------------------
+## 👨‍💻 О себе
+Я web-разработчик с опытом 10 лет, пробовал себя в backend, frontend и fullstack. Благодаря этому глубоко понимаю современные системы и умею эффективно решать задачи пользователей.  
+Сейчас развиваюсь в сфере ИИ и нейросетей.  
 
-* 🌍 Я живу в Волгограде
-* 🖥️  Смотрите мой профиль на [hh.ru](http://volgograd.hh.ru/resume/1526069eff0e9b80290039ed1f565175715a79)
-* ✉️  Вы можете связаться со мной по TG: [@svnosachev](mailto:@svnosachev)
-* 🧠  Учусь в академии нейросетей <a href="https://t.me/thefoundator" rel="nofollow">@thefoundator</a>
+🌍 Волгоград | ✉️ [Telegram](https://t.me/svnosachev) | [hh.ru](http://volgograd.hh.ru/resume/1526069eff0e9b80290039ed1f565175715a79)  
+🎓 Академия нейросетей: [The Foundator](https://t.me/thefoundator)
 
-<p dir="auto">👨&zwj;💻 <strong>Обо мне</strong></p>
+---
 
-<p dir="auto">Я web разработчик с опытом работы 10 лет, за это время попробовал себя в разных направления backend, frontend, fullstack. Благодаря этим ролям я глубоко понимаю, как работают современные системы, и умею эффективно решать задачи пользователей</p>
-<p dir="auto">В виду развития, большого спроса и моей заинтересованности в ИИ начал осваивать разработку нейросетей.</p>
+## 🛠️ Технический стек
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">The Founder:</h2><a id="user-content-pet-проекты" class="anchor" aria-label="Permalink: PET проекты:" href="#pet-проекты"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
-  <p dir="auto">* Апрель 2025 -настоящее время</p>
-  <h3 class="heading-element" dir="auto">Machine Learning Developer</h3>
-  <p dir="auto">1. Создал распознание лица на фотографии. И дорисовку различных элементов например солнце защитные очки (requests, cv2 gdown, numpy, pyplot)</p>
-  <p dir="auto">2. Использовал предобученную модель MobileNet,реализовал распознание кошек и собак применяя аугментацию. (keras, MobileNet, VGG16, plot_model, ImageDataGenerator)</p>
-  <p dir="auto">3. Произвёл тонкую настройку модели второй версии EfficientNetV2 на примере набора данных Stanford Dogs.(keras, tensorflow, EfficientNetV2B0)</p>
-  <p dir="auto">4. Обучил модель Embedding по датасету писателей Русской литературы используя веса Наташи(numpy, sklearn, keras, Dense, Dropout, SpatialDropout1D, BatchNormalization, Embedding, Flatten, Activation, tensorflow, EfficientNetV2B0, navec, razdel)</p>
-  <p dir="auto">5. Обучил модель предсказывать цены на японские автомобили, используя датасет японских машин(numpy, sklearn, keras, Dense, Dropout, SpatialDropout1D, BatchNormalization, Embedding, Flatten, Activation,
-                            SimpleRNN, GRU, LSTM, Bidirectional, Conv1D, MaxPooling1D, GlobalMaxPooling1D)</p>
-  <p dir="auto">6. Обучил полносвязанную модель, по датасеу котировок Apple, выполнять анализ временных рядов (numpy, pandas, sklearn, keras, Flatten, Conv1D, Conv2D, LSTM, GlobalMaxPooling1D, MaxPooling1D, RepeatVector)</p>
-  <p dir="auto">7. Реализовал при помощи FastAPI REST API. которая взаимодействует с обученой моделью на наборе mnist выводить цифры по загруженной картинке (fastapi, mnist, numpy, keras, tensorflow, PIL)</p>
-  <p dir="auto">8. Реализовал интерфейс на Streamlit для обучения и инференса модели которая на основе одних midi герерирует другие то есть мелодия однго композитора, но в стиле другого(Streamlit, music21, numpy, keras,  sklearn, LSTM, Dense, Dropout, Sequential, Adamax)</p>
-  <p dir="auto">9.Сгенерировал на основе предобученной модели saiga и ru_turbo_saiga датасета случайные фразы(peft, LoraConfig, AutoPeftModelForCausalLM, PeftConfig, transformers, ctransformers,  Hugging Face)</p>
-  <p dir="auto">10.Собрал интерфейс Gradio для предобученной модели используя датасет от SberDevice модели генерировать текст по промпту(gradio, peft, pyvis, llama_index, transformers,  Hugging Face)</p>
-   <p dir="auto">11.Обучил автокодировщик удалять шум или водяные знаки у изображений(numpy, pandas, albumentations, matplotlib, keras, cv2, sklearn, pillow, albumentations)</p>
-   <p dir="auto">12. Обучи U-net подобную архитектуру сегментировать легкие человека на радиографическом снимке (numpy, kagglehub, openpyxl, keras).</p>
-  <p dir="auto">13. научил GAN и DCGAN генерировать цифры и образцы одежды используя датасет MNIST из набора датасетов Tensorflow (numpy, tensorflow, keras, cv2, Conv2D,Dropout,Dense,Flatten,Conv2DTranspose,BatchNormalization,LeakyReLU,Reshape, matplotlib, seaborn).</p>
-  <p dir="auto">14. Обучил модель по картинкам делать описание (numpy, pandas, tokenizers, tensorflow, keras, transformers, inception_v3).</p>
-  <p dir="auto">15. Обучил модель переводить текст с одного языка на другой (numpy, pandas, tokenizers, tensorflow, keras, transformers).</p>
-  <p dir="auto">16. Создал трансформер для задачи question answering. Трансформерпо принципу чат-бота: принимает на вход вопрос, и генерировать ответ на этот вопрос. (numpy, matplotlib, tensorflow, tensorflow_datasets).</p>
-  <p dir="auto">17. Создал чат-бот на базе BERT-подобной модели. Дообучив (fine-tuning) предобученную (pre-training) BERT-подобную модель на задачу Q&A (по входной последовательности вопросов генерировать ответы), используя публичный датасет с диалогами (numpy, pandas, emoji, sklearn, imblearn, transformers, matplotlib, seaborn). </p>
-  <p dir="auto">18. Научил GPT по русскоязычным текстам новостей писать заголовки к ним. (pandas, torch, kagglehub, transformers, AutoTokenizer, AutoModelForSeq2SeqLM, Trainer, TrainingArguments, DataCollatorForLanguageModeling)</p>
-  <p dir="auto">19. Создал модель YOLOv3 с нуля обучил детектировать шахматные фигуры. (numpy, pandas, cv2, tensorflow, ReduceLROnPlateau, EarlyStopping, ModelCheckpoint, TensorBoard,  Add, Concatenate, Lambda, Conv2D, Input, LeakyReLU, MaxPool2D, UpSampling2D, ZeroPadding2D, BatchNormalization)</p>
-  <p dir="auto">20. Обучил игру на стратегии градиента стратегии (градиентной политики) используя Gym Atari. Создал видео из нескольких игровых эпизодов (pytorch, numpy, matplotlib, cv2, gymnasium).</p>
-  <p dir="auto">21. Реализовал алгоритм управления МК с разделенной стратегией для среды Acrobot из библиотеки OpenAI Gym. Сравнил  разделенную стратегию и  ε-жадную стратегию (pytorch,numpy, matplotlib, cv2, gymnasium, mpl_toolkits)</p>
-  <p dir="auto">22. Решил задачу Pong с помощью DQN, используя только полносвязанные слои, оставив только один канал.(collections, pytorch,numpy, matplotlib, cv2, gymnasium, mpl_toolkits) </p>
-  <p dir="auto">23. Реализовал REINFORCE, REINFORCE с базой, GAE и GAE парралельный на базе pybulet использую кастомный класс Env (imageio, base64, pytorch, numpy, matplotlib, gym, pybullet)</p>
-  
-</div>
+**Языки:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 
+**Фреймворки и библиотеки:**  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 
+**Инструменты для данных и AI:**  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">PET проекты:</h2><a id="user-content-pet-проекты" class="anchor" aria-label="Permalink: PET проекты:" href="#pet-проекты"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+---
 
-<h3 class="heading-element" dir="auto">📌 Консультирование клиентов по процессам работы франшизы</h3>
-<p dir="auto">Создал парсер для сбора информации с сайта, подготовил данные и обучил модель отвечать на вопросы <a href="https://github.com/snosachyev/franchise"><strong>Ссылка на проект</strong></a></p>
-<p dir="auto"><strong>Стек:</strong> Python, sklearn, pandas, numpy, google.colab, nltk(gTTS), bs4</p>
-<hr>
+## 🚀 Опыт: Machine Learning Developer (Апрель 2025 – настоящее время)
 
-<h3 class="heading-element" dir="auto">📌 Менеджер по подбору автомобилей</h3>
-<p dir="auto">Сделал парсер автомобилей, создал индекс на основе спарсенной информации, использовал модель saiga_mistral_7b, которя на основе данных выводит нужный контент <a href="https://github.com/snosachyev/auto_manger"><strong>Ссылка на проект</strong></a></p>
-<p dir="auto"><strong>Стек:</strong> Python, pandas, numpy, google.colab, langchain, llama-index, transformers, huggingface, bs4</p>
-<hr>
+### Основные направления
+- **Компьютерное зрение & обработка изображений**  
+  - Распознавание лиц с дорисовкой элементов (очки, солнце)  
+  - Распознавание кошек и собак с аугментацией  
+  - Настройка EfficientNetV2B0 на наборе Stanford Dogs  
+  - U-net сегментация лёгких на рентгенах  
+  - Автокодировщик для удаления шумов и повышения разрешения  
+  - GAN/DCGAN для генерации цифр и одежды  
+  - YOLOv3 для детекции шахматных фигур  
 
-<h3 class="heading-element" dir="auto">📌 Автоэнкодер повышаюий разрешение изображений</h3>
-<p dir="auto">Реализовал повышение разрешения изображений с помощью автокодировщиков с глубокими сверточными сетями <a href="https://github.com/snosachyev/increasing_image_resolution"><strong>Ссылка на проект</strong></a></p>
-<p dir="auto"><strong>Стек:</strong>numpy, pandas, tensorflow, keras, datasetGenerator</p>
-<hr>
+- **Обработка текста & NLP**  
+  - Embedding-модель для русских писателей  
+  - Генерация текста с Saiga и ru_turbo_saiga  
+  - Gradio интерфейс для модели SberDevice  
+  - Модель для генерации заголовков новостей (GPT)  
+  - Чат-бот на BERT-подобной модели (Q&A)  
+  - Трансформер для Question Answering  
 
-<p dir="auto">🎯 <strong>Моя цель</strong> — перейти на позицию разработчика нейросетей, где я смогу объединить свой опыт работы с людьми, понимание технологий и навыки разработки, чтобы вносить вклад в инновационные проекты.</p>
+- **Временные ряды & прогнозирование**  
+  - Прогнозирование цен на японские автомобили  
+  - Анализ котировок Apple  
+  - REINFORCE, GAE и DQN для игр и симуляций  
 
+- **Инфраструктура & API**  
+  - REST API для MNIST с FastAPI  
+  - Streamlit интерфейс для генерации музыки  
+  - Интерфейс Gradio для текстовых моделей  
 
-<p dir="auto" class=""><strong>Образование и курсы</strong></p>
+---
 
-<ul dir="auto">
-<li>2025 Разработчик нейросетей, The Founder</li>
-</ul>
+## 📂 PET проекты
+
+### 📌 Консультирование клиентов по франшизе  
+Парсер данных с сайта, обучение модели отвечать на вопросы  
+**Стек:** Python, sklearn, pandas, numpy, nltk, bs4  
+[Ссылка на проект](https://github.com/snosachyev/franchise)
+
+### 📌 Менеджер по подбору автомобилей  
+Парсер автомобилей и генерация контента с использованием модели Saiga  
+**Стек:** Python, pandas, numpy, langchain, llama-index, transformers, huggingface, bs4  
+[Ссылка на проект](https://github.com/snosachyev/auto_manger)
+
+### 📌 Автоэнкодер повышения разрешения изображений  
+**Стек:** numpy, pandas, tensorflow, keras, datasetGenerator  
+[Ссылка на проект](https://github.com/snosachyev/increasing_image_resolution)
+
+---
+
+## 🎯 Моя цель
+Перейти на позицию разработчика нейросетей, объединяя опыт работы с людьми, понимание технологий и навыки разработки для участия в инновационных проектах.
+
+---
+
+## 🎓 Образование и курсы
+- 2025: Разработчик нейросетей, The Founder
+
+---
+
+## 📈 GitHub статистика
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snosachyev&layout=compact&theme=tokyonight)  
+![Stats](https://github-readme-stats.vercel.app/api?username=snosachyev&show_icons=true&theme=tokyonight&count_private=true)
