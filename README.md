@@ -79,6 +79,10 @@
 **Стек:** numpy, pandas, tensorflow, keras, datasetGenerator  
 [Ссылка на проект](https://github.com/snosachyev/increasing_image_resolution)
 
+### 📌 Чат-приложение с ИИ  
+**Стек:** dart, flutter, cupertino_icons, http, provider, shared_preferences, path_provider, sqflite, sqflite_common_ffi, google_fonts, flutter_dotenv, intl, path, fl_chart
+[Ссылка на проект](https://github.com/snosachyev/flutter_open-router)
+
 ---
 
 ## 🎯 Моя цель
