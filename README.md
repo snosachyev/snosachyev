@@ -82,6 +82,9 @@
 ### 📌 Чат-приложение с ИИ  
 **Стек:** dart, flutter, cupertino_icons, http, provider, shared_preferences, path_provider, sqflite, sqflite_common_ffi, google_fonts, flutter_dotenv, intl, path, fl_chart
 [Ссылка на проект](https://github.com/snosachyev/flutter_open-router)
+### 📌 Чат-приложение с ИИ  
+**Стек:** End-to-end ML platform for churn prediction with Kafka, ClickHouse feature store, Airflow orchestration, MLflow registry and FastAPI inference.
+[Ссылка на проект](https://github.com/snosachyev/churn-prediction)
 
 ---
 
